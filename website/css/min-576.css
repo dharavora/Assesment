@@ -1,0 +1,27 @@
+@media (min-width: 576px) {
+    .page-3 .item {
+        width: 500px;
+    }
+    
+    .page-2 {
+        height: fit-content;
+        padding-bottom: 50px;
+    }
+    
+    .page-2 .catgories-cards .catgories .card {
+        width: 500px;
+    }
+    .page-2 .catgories-cards .meeting-cards .cards .card {
+        width: 400px;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards {
+        margin: 0px 15px;
+    }
+    
+    .page-2 .catgories-cards .meeting-cards .cards .card .img img {
+        width: 400px;
+        max-height: 200px;
+        object-fit: cover;
+    }
+}

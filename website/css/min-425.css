@@ -1,0 +1,97 @@
+@media (min-width: 425px) {
+    body {
+        overflow-x: hidden;
+    }
+    .sub-header .line {
+        visibility: hidden;
+        display: none;
+    }
+
+    .page-2 .cards {
+        display: flex;
+        width: 100%;
+        overflow: auto;
+    }
+
+    .page-2 .catgories-cards .meeting-cards {
+        width: 70%;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards .card {
+        width: 300px;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards .card .img img {
+        width: 300px;
+    }
+
+    .page-2 .catgories-cards .catgories .card {
+        margin: 0px 20px;
+        width: 300px;
+    }
+
+    .page-2 .catgories-cards .meeting-cards .cards {
+        margin: 0px 20px;
+    }
+
+    .page-3 {
+        height: fit-content;
+        padding: 40px 0px;
+    }
+
+    .page-3 .item {
+        margin: 20px;
+        width: 300px;
+    }
+
+    .page-3 .item h1 {
+        font-size: 20px;
+    }
+
+    .page-3 .item p {
+        font-size: 15px;
+    }
+
+    .page-3 .apply .template {
+        width: 300px;
+    }
+
+    .page-4 {
+        height: fit-content;
+        padding-bottom: 50px;
+    }
+
+    .page-2 .catgories-cards .catgories
+    .page-4 .cards {
+    width: 100%;
+    overflow: auto;
+    }
+
+    .page-5 {
+        padding: 20px;
+    }
+
+    .page-5 .count-area .heading p {
+        font-size: 26px;
+    }
+
+    .page-5 .count-area .count-area-content .card-1 {
+        width: 300px;
+    }
+
+    .page-5 .count-area .count-area-content .card-2 {
+        width: 300px;
+    }
+
+    .page-5 .count-area-content {
+        margin-left: 40px;
+    }
+    
+    .page-6 .form {
+        margin: 40px 30px;
+    }
+
+    .page-6 .right-info {
+        margin: 0px;
+    }
+}
