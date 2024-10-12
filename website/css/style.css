@@ -272,6 +272,7 @@ video {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
+    margin: 0px 10px;
 }
 
 .catgories-cards .meeting-cards .cards .card {
@@ -342,7 +343,7 @@ video {
 
 .page-3 {
     height: 1600px;
-    padding: 80px 0px;
+    padding: 40px 0px;
     object-fit: cover;
     /* background-position: center; */
     /* background-repeat: no-repeat; */
@@ -362,6 +363,7 @@ video {
     width: 300px;
     font-family: "Poppins", sans-serif;
     padding: 30px;
+    margin: 0px 30px;
     color: white;
 }
 
@@ -626,10 +628,10 @@ video {
 }
 
 .page-6 .form form {
-    height: 350px;
+    height: 400px;
     /* width: 300px; */
     /* width: fit-content; */
-    width: 100%;
+    width: 300px;
 }
 
 .page-6 .form form .form-section {
