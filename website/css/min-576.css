@@ -17,7 +17,7 @@
     }
 
     .page-2 .catgories-cards .meeting-cards .cards {
-        margin: 0px 30px;
+        margin-left: 30px;
     }
     
     .page-2 .catgories-cards .meeting-cards .cards .card .img img {
@@ -30,7 +30,7 @@
         height: fit-content;
     }
     .page-3 .apply .item {
-        margin: 0px 40px;
+        margin: 0px 30px;
     }
 
     .page-3 .apply .template {
@@ -48,6 +48,17 @@
 
     .page-5 .count-area .count-area-content .card-2 {
         width: 500px;
+    }
+
+    .page-5 .video-img {
+        width: 500px;
+        height: 350px;
+    }
+
+    .page-5 .video-img i {
+        font-size: 60px;
+        color: white;
+        margin: 130px 230px;
     }
 
     .page-6 .form {

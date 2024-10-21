@@ -1,4 +1,8 @@
 @media (min-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+
     .header-text {
         width: 70%;
         margin-left: 50px; 
@@ -42,7 +46,7 @@
     }
 
     .page-5 {
-        padding: 40px;
+        padding: 30px;
     }
 
     .page-5 .count-area .heading p {
